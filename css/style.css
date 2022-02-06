@@ -3,19 +3,6 @@
     padding: 0px;
     font-family: 'Roboto', sans-serif;
 }
-/* .banner1{
-    background-image: url(/Asset/img/banner.png);
-    background-size: cover;
-    object-fit: cover;
-    width: 100%;
-    min-height: auto;
-    background-repeat: no-repeat;
-    opacity:0.8;
-} */
-/* .logo_img{
-    height: 55px;
-    width: 55px;
-} */
 header{
     position: absolute;
     z-index: 999;
